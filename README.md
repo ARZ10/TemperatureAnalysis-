@@ -20,7 +20,7 @@ C compiler
 
 Clone the repository.
 
-git clone https://github.com/parsa-pourmand/temperature-analysis.git
+git clone https://github.com/ARZ10/TemperatureAnalysis.git
 
 Compile the C program.
 
