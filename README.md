@@ -20,8 +20,6 @@ C compiler
 
 Clone the repository.
 
-git clone https://github.com/ARZ10/TemperatureAnalysis.git
-
 Compile the C program.
 
 gcc term project.c -o temperature_analysis
